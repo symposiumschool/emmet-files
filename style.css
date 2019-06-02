@@ -1,0 +1,66 @@
+body {
+	/* color */
+	color: #000000;
+	color: #ffffff;
+	color: #c3c3c3;
+	/* background */
+	background: #000;
+	background: #ffffff;
+	background-color: #fff;
+	background-color: #000000;
+	background-image: url();
+	/* display */
+	display: block;
+	display: inline;
+	display: inline-block;
+	display: flex;
+	display: none;
+	/* padding */
+	padding: 1rem;
+	padding: 1rem 2rem;
+	padding-right: 10px;
+	padding-left: 4em;
+	padding-top: 10%;
+	padding-bottom: 5%;
+	/* margin */
+	margin: 15px;
+	margin-right: 3em;
+	margin-left: 25%;
+	margin-top: 5%;
+	margin-bottom: 3rem;
+	/* box sizing*/
+	box-sizing: content-box;
+	box-sizing: border-box;
+	width: 25%;
+	height: 50px;
+	min-width: ;
+	min-height: ;
+	max-width: ;
+	max-height: ;
+	/* border */
+	border: 1px solid #000;
+	border-right: 1px solid #000;
+	border-left: 1px solid #000;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border: none;
+	/* fonts */
+	font-family: serif;
+	font-family: sans-serif;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 1.6rem;
+	font-size: 20px;
+	font-weight: normal;
+	font-weight: bold;
+	font-weight: 300;
+	font-style: italic;
+	font-style: oblique;
+	/* text */
+	text-decoration: none;
+	text-decoration: underline;
+	text-align: left;
+	text-align: right;
+	text-align: center;
+	text-align: justify;
+}
